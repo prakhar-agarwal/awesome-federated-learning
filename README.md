@@ -199,6 +199,8 @@ A list of resources releated to federated learning and privacy in machine learni
 
 * LEAF https://leaf.cmu.edu/
 
+* EdgeML https://github.com/Microsoft/EdgeML
+
 
 
 ## Use-cases
